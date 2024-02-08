@@ -29,7 +29,7 @@ I am a dedicated Apple enthusiast since the release of the first iPhone. My pass
 <br/>
 
 - 📱 I'm currently immersed in native iOS development with **Swift** and Objective-C.
-- 💬 English (🇺🇸) and Malayalam (🇮🇳) are my primary spoken languages.
+- 💬 English (🇮🇳) and Malayalam (🇮🇳) are my primary spoken languages.
 - 🙋‍♂️ Let's connect! Hit me up on [LinkedIn](https://www.linkedin.com/in/jinu-joy-32114055/).
 
 <!--- 🎓 Software Engineering ([UNINTER](https://www.uninter.com/)) and Mechanical Engineering student ([UFSC](https://ufsc.br/)) -->
